@@ -1,0 +1,9 @@
+pkgbase = snowbower
+	pkgdesc = A program script to clear package managers caches
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/moabomena/Snowbower
+	arch = any
+	license = GPL3
+
+pkgname = snowbower

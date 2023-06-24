@@ -1,7 +1,7 @@
 # Maintainer: Moab Omena <>
 
 pkgname=snowbower
-pkgver=1.0
+pkgver=1.1
 pkgrel=1
 arch=(any)
 source=(https://github.com/moabomena/Snowbower/releases/download/v$pkgver/snowbower.sh)
